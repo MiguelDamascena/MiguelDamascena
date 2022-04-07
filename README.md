@@ -1,5 +1,9 @@
 # Hi there, I'm Miguel 👋
 
+ADMINISTRADOR DE EMPRESA 📊
+PROGRAMAÇÃO 🖥️ 
+INOVAÇÃO ⚡
+
 <div align="center">
   <a href="https://github.com/MiguelDamascena">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MiguelDamascena&show_icons=true&theme=darke&include_all_commits=true&count_private=true"/>
